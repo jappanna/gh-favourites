@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 chicken fry
 jilebi
 icecream
+=======
+ironman
+superman
+heman
+>>>>>>> movies
